@@ -1605,4 +1605,3 @@ root.mainloop()
 
 # Project by
 # 6609063 - Saw Aung Kaung Thant
-# 6601759 - Saw Thuta Lin
