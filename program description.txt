@@ -1,0 +1,20 @@
+Program made by 
+6609063 - Saw Aung Kaung Thant
+
+Program Description:
+The program allows the user to interact with the agent database via the features included in the list below.
+
+For convient usuage, please change the filepath of 'agents.csv' to your actual filepath on your device.
+
+Features included in the program:
+1. Displaying all the agents
+2. Displaying the total number of agents
+3. Adding new agent
+4. Searching up the agents' information
+5. Deleting the agent
+6. Updating the agents' infromation
+0. Exiting the program
+
+Examples agents' informations to add:
+14,Skye,Kirra Foster,Radiant,27,Australian,Initiator,8,27%
+15,Yoru,Kiritani Ryo,Radiant,27,Japanese,Duelist,7,11%
